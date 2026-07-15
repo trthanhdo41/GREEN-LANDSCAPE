@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   title: "Green Landscape - Vật liệu ngoại thất xanh",
   description:
     "Green Landscape cung cấp giải pháp gỗ nhựa ngoài trời từ HDPE tái chế cho sân vườn, ban công, hồ bơi, tường ốp và lan can.",
+  icons: {
+    icon: "/logo.jpg",
+  },
 };
 
 export default function RootLayout({
